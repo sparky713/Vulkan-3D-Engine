@@ -1,10 +1,10 @@
 # Vulkan-3D-Engine
- C++ 3D editor using the Vulkan API and wxWidgets framework . Advanced 3D graphics programming project.
+ C++ 3D editor using the Vulkan API and wxWidgets framework. Advanced 3D graphics programming project.
 
 #### LEAD PROGRAMMER: Samil Chai
 #### JUNIOR PROGRAMMER: Sally Park
 
-## Parts of code has been removed for privacy
+### *Parts of code have been removed for privacy*
 
 ## Features
 - Object Picking via Ray Casting
