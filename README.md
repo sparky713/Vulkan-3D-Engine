@@ -4,6 +4,8 @@
 #### LEAD PROGRAMMER: Samil Chai
 #### JUNIOR PROGRAMMER: Sally Park
 
+## Parts of code has been removed for privacy
+
 ## Features
 - Object Picking via Ray Casting
 - Bounding Box

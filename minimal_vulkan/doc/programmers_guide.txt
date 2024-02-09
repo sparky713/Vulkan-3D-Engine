@@ -1,0 +1,6 @@
+System information
+OS Name: Microsoft Windows 10 Home
+Version:	 10.0.19045 Build 19045
+Processor: Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz, 3600 Mhz, 4 Core(s), 4 Logical Processor(s)
+
+
